@@ -1,0 +1,6 @@
+{
+  "name": "Myo Min Khant",
+  "description": "ဟင်းချက်နည်းမှတ်စုနှင့် AI စားဖိုမှူးလက်ထောက် - Recipe notebook with ingredients, cooking steps, photo/video support, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

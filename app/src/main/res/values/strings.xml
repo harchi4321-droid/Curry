@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Myo Min Khant</string>
+    <string name="tab_recipes">ဟင်းချက်နည်းများ</string>
+    <string name="tab_add">အသစ်ထည့်မည်</string>
+    <string name="tab_ai">AI စားဖိုမှူး</string>
+    <string name="tab_favorites">အကြိုက်ဆုံး</string>
+</resources>
